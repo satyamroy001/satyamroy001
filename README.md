@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...                  tech-stacks, and machine learning algorithms
 - 📫 How to reach me: ... satyamroy36@gmail.com
 - 😄 Pronouns: ... satyam roy 
-- ⚡ Fun fact: ... i love medical science than coding!!!!
+- ⚡ Fun fact: ... i love medical science more than coding!!!! (CSIR-lucknow brain disorder via CNN and dendrimers project)
 
