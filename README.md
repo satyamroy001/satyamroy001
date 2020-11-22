@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... satyam roy 
 - ⚡ Fun fact: ... i love medical science more than coding!!!! (CSIR-lucknow brain disorder via CNN and dendrimers project)
 
-![my portfolio](https://friendly-gates-ff3d42.netlify.app/)
+https://friendly-gates-ff3d42.netlify.app/ - MY PORTFOLIO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
