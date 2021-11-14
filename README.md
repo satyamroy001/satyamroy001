@@ -8,6 +8,9 @@
 - 🌱 I am currently learning more about backend development.
 - 🌱 Working on Pytorch and building own medical classification projects for free service in hospitals
 - 🏆 2021 Goals: Contribute more to advanced deep learning research Projects.
+- 🌱 Developing own programming language inspired by LISP (ai) and operating system (LINUX VERSION)
+- 🌱 Published 7+ research papers in advanced number theory and signal processing
+- 🌱 Quantum Machine Learning (intermediate)
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/satyam-roy-6250a2165/)
 - 😄 Pronouns: He/Him
 
