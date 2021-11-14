@@ -46,7 +46,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Chicago
+⌚︎ Time Zone: India/Asansol (Kolkata)
 💬 Programming Languages: 
 JavaScript               34 mins             █████████████████████████   100.0%
 🔥 Editors: 
@@ -78,4 +78,7 @@ VS Code                  34 mins             ███████████�
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamroy001&show_icons=true&theme=radical)
+
 
