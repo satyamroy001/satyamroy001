@@ -13,6 +13,7 @@
 - 🌱 Quantum Machine Learning (intermediate)
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/satyam-roy-6250a2165/)
 - 😄 Pronouns: He/Him
+- Young Footballer (mid-field)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamroy001)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-roy-6250a2165/)
@@ -75,6 +76,7 @@ VS Code                  34 mins             ███████████�
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
+[![Vim](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
