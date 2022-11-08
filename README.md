@@ -2,7 +2,6 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-[![@satyamroy001's Holopin board](https://holopin.me/satyamroy001)](https://holopin.io/@satyamroy001)
 
 ## I'm a Fullstack Developer and Deep Learning Researcher
 ### Ongoing research - Artificial Neoron models and Complex electrodynamics 
@@ -26,7 +25,7 @@
 [![Apple](https://badgen.net/badge/PROJECT/PENTAGON/red?icon=github)](https://satyamroy001.github.io/researchml/)
 
 ---
-
+[![@satyamroy001's Holopin board](https://holopin.me/satyamroy001)](https://holopin.io/@satyamroy001)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
