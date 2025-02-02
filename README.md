@@ -8,7 +8,7 @@
 
 - 🌱 I am currently learning more about backend development.
 - 🌱 Working on Pytorch and building own medical classification projects for free service in hospitals
-- 🏆 2021 Goals: Contribute more to advanced deep learning research Projects.
+- 🏆 2025 Goals: Contribute more to advanced deep learning research Projects. and my own LLM
 - 🌱 Developing own programming language inspired by LISP (ai) and operating system (LINUX VERSION)
 - 🌱 Published 7+ research papers in advanced number theory and signal processing
 - 🌱 Quantum Machine Learning (intermediate)
